@@ -1,7 +1,7 @@
-<B>INSTRURENTAL</B>
+<h1>INSTRURENTAL</h1>
 Instruments renal management system using php and Mysql.
 
-<B>Website Preview </B>
+<h2>Website Preview </h2>
 
 
 
